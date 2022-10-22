@@ -7,6 +7,6 @@ are
 
 ![Book 1](https://en.wikipedia.org/wiki/Harry_Potter)
 
-![Book 2](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
+![Book 2](https://github.com/idkcallmecole/Code-Repository/blob/main/51OwMSETOJL.jpg)
 
 [return to home](./README.md)
