@@ -12,4 +12,3 @@
 1. Respectful
 
 [Go back to home page](./README.md)
-code_sample.md
